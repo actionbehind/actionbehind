@@ -1,8 +1,12 @@
-### Hi there 👋
+We build quality, robust, and scalable web apps. All of our websites are mobile device-friendly and responsive design.
 
+Reach me here :
+- [Twitter](https://twitter.com/actionbehind) 
+- [Website](https://www.actionbehind.com
+)
 <!--
 **actionbehind/actionbehind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
